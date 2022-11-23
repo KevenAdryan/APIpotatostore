@@ -1,0 +1,323 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Keven Adryan",
+      "userName": "keven",
+      "password": "123",
+      "tipo": "master",
+      "codFunc": "0",
+      "codUni": "0"
+    },
+    {
+      "id": 2,
+      "nome": "Keven Adryan2",
+      "userName": "adryan",
+      "password": "123",
+      "tipo": "adm",
+      "codFunc": "1",
+      "codUni": "1"
+    },
+    {
+      "id": 3,
+      "nome": "Keven Adryan3",
+      "userName": "andrade",
+      "password": "123",
+      "tipo": "func",
+      "codFunc": "2",
+      "codUni": "2"
+    },
+    {
+      "id": 4,
+      "nome": "Keven Adryan4",
+      "userName": "rosa",
+      "password": "123",
+      "tipo": "usu",
+      "codFunc": "3",
+      "codUni": "3"
+    },
+    {
+      "id": 5,
+      "nome": "Fernanda Miriam",
+      "userName": "fernanda",
+      "password": "123",
+      "tipo": "usu",
+      "codFunc": "3",
+      "codUni": "4"
+    }
+  ],
+  "produtosAll": [
+    {
+      "id": "0",
+      "tipo": "batataCrua",
+      "url": "https://static1.conquistesuavida.com.br/ingredients/5/54/52/05/@/24682--ingredient_detail_ingredient-2.png",
+      "nome": "batata",
+      "valor": 1.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "1",
+      "tipo": "batataCrua",
+      "url": "https://static1.conquistesuavida.com.br/ingredients/5/54/52/05/@/24682--ingredient_detail_ingredient-2.png",
+      "nome": "batata2",
+      "valor": 3.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "2",
+      "tipo": "batataCrua",
+      "url": "https://static1.conquistesuavida.com.br/ingredients/5/54/52/05/@/24682--ingredient_detail_ingredient-2.png",
+      "nome": "batata3",
+      "valor": 4.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "3",
+      "tipo": "batataCrua",
+      "url": "https://static1.conquistesuavida.com.br/ingredients/5/54/52/05/@/24682--ingredient_detail_ingredient-2.png",
+      "nome": "batata4",
+      "valor": 7.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "4",
+      "tipo": "batataCrua",
+      "url": "https://static1.conquistesuavida.com.br/ingredients/5/54/52/05/@/24682--ingredient_detail_ingredient-2.png",
+      "nome": "batata5",
+      "valor": 18.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "5",
+      "tipo": "batataCrua",
+      "url": "https://static1.conquistesuavida.com.br/ingredients/5/54/52/05/@/24682--ingredient_detail_ingredient-2.png",
+      "nome": "batata6",
+      "valor": 2.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "6",
+      "tipo": "batataAssada",
+      "url": "https://img.itdg.com.br/tdg/images/recipes/000/096/254/319765/319765_original.jpg?mode=crop&width=710&height=400",
+      "nome": "batataAssada",
+      "valor": 1.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "7",
+      "tipo": "batataAssada",
+      "url": "https://img.itdg.com.br/tdg/images/recipes/000/096/254/319765/319765_original.jpg?mode=crop&width=710&height=400",
+      "nome": "batataAssada2",
+      "valor": 3.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "8",
+      "tipo": "batataAssada",
+      "url": "https://img.itdg.com.br/tdg/images/recipes/000/096/254/319765/319765_original.jpg?mode=crop&width=710&height=400",
+      "nome": "batataAssada3",
+      "valor": 4.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "9",
+      "tipo": "batataAssada",
+      "url": "https://img.itdg.com.br/tdg/images/recipes/000/096/254/319765/319765_original.jpg?mode=crop&width=710&height=400",
+      "nome": "batataAssada4",
+      "valor": 7.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "10",
+      "tipo": "batataAssada",
+      "url": "https://img.itdg.com.br/tdg/images/recipes/000/096/254/319765/319765_original.jpg?mode=crop&width=710&height=400",
+      "nome": "batataAssada5",
+      "valor": 18.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "11",
+      "tipo": "batataAssada",
+      "url": "https://img.itdg.com.br/tdg/images/recipes/000/096/254/319765/319765_original.jpg?mode=crop&width=710&height=400",
+      "nome": "batataAssada6",
+      "valor": 2.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "12",
+      "tipo": "batataPure",
+      "url": "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-840x480.jpg?q=75",
+      "nome": "pureDeBatata",
+      "valor": 1.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "13",
+      "tipo": "batataPure",
+      "url": "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-840x480.jpg?q=75",
+      "nome": "pureDeBatata2",
+      "valor": 3.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "14",
+      "tipo": "batataPure",
+      "url": "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-840x480.jpg?q=75",
+      "nome": "pureDeBatata3",
+      "valor": 4.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "15",
+      "tipo": "batataPure",
+      "url": "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-840x480.jpg?q=75",
+      "nome": "pureDeBatata4",
+      "valor": 7.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "16",
+      "tipo": "batataPure",
+      "url": "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-840x480.jpg?q=75",
+      "nome": "pureDeBatata5",
+      "valor": 18.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "17",
+      "tipo": "batataPure",
+      "url": "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-840x480.jpg?q=75",
+      "nome": "pureDeBatata6",
+      "valor": 2.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "18",
+      "tipo": "batataFrita",
+      "url": "https://clubedaquimica.com/wp-content/uploads/2018/02/batata-752x440.jpg",
+      "nome": "fritas",
+      "valor": 1.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "19",
+      "tipo": "batataFrita",
+      "url": "https://clubedaquimica.com/wp-content/uploads/2018/02/batata-752x440.jpg",
+      "nome": "fritas2",
+      "valor": 3.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "20",
+      "tipo": "batataFrita",
+      "url": "https://clubedaquimica.com/wp-content/uploads/2018/02/batata-752x440.jpg",
+      "nome": "fritas3",
+      "valor": 4.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "21",
+      "tipo": "batataFrita",
+      "url": "https://clubedaquimica.com/wp-content/uploads/2018/02/batata-752x440.jpg",
+      "nome": "fritas4",
+      "valor": 7.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "22",
+      "tipo": "batataFrita",
+      "url": "https://clubedaquimica.com/wp-content/uploads/2018/02/batata-752x440.jpg",
+      "nome": "fritas5",
+      "valor": 18.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "23",
+      "tipo": "batataFrita",
+      "url": "https://clubedaquimica.com/wp-content/uploads/2018/02/batata-752x440.jpg",
+      "nome": "fritas6",
+      "valor": 2.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "24",
+      "tipo": "batataSemente",
+      "url": "http://www.agrosemcanoinhas.com.br/images/batata14.jpg",
+      "nome": "sementeDeBatata",
+      "valor": 1.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "25",
+      "tipo": "batataSemente",
+      "url": "http://www.agrosemcanoinhas.com.br/images/batata14.jpg",
+      "nome": "sementeDeBatata2",
+      "valor": 3.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "26",
+      "tipo": "batataSemente",
+      "url": "http://www.agrosemcanoinhas.com.br/images/batata14.jpg",
+      "nome": "sementeDeBatata3",
+      "valor": 4.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "27",
+      "tipo": "batataSemente",
+      "url": "http://www.agrosemcanoinhas.com.br/images/batata14.jpg",
+      "nome": "sementeDeBatata4",
+      "valor": 7.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "28",
+      "tipo": "batataSemente",
+      "url": "http://www.agrosemcanoinhas.com.br/images/batata14.jpg",
+      "nome": "sementeDeBatata5",
+      "valor": 18.52,
+      "qtd": 0,
+      "total": 0
+    },
+    {
+      "id": "29",
+      "tipo": "batataSemente",
+      "url": "http://www.agrosemcanoinhas.com.br/images/batata14.jpg",
+      "nome": "sementeDeBatata6",
+      "valor": 2.52,
+      "qtd": 0,
+      "total": 0
+    }
+  ],
+  "pedidos": [],
+  "produto-pedido": []
+}
