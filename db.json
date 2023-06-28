@@ -1,49 +1,12 @@
 {
-  "usuarios": [
+  "users": [
     {
-      "id": 1,
-      "nome": "Keven Adryan",
-      "userName": "keven",
-      "password": "123",
+      "email": "k@k.com",
+      "password": "$2a$10$ZrcmFFneFGfTppXA6jxBJOwtODQAh4WPoWMYvB/1cu6vRxU.MQGjK",
       "tipo": "master",
       "codFunc": "0",
-      "codUni": "0"
-    },
-    {
-      "id": 2,
-      "nome": "Keven Adryan2",
-      "userName": "adryan",
-      "password": "123",
-      "tipo": "adm",
-      "codFunc": "1",
-      "codUni": "1"
-    },
-    {
-      "id": 3,
-      "nome": "Keven Adryan3",
-      "userName": "andrade",
-      "password": "123",
-      "tipo": "func",
-      "codFunc": "2",
-      "codUni": "2"
-    },
-    {
-      "id": 4,
-      "nome": "Keven Adryan4",
-      "userName": "rosa",
-      "password": "123",
-      "tipo": "usu",
-      "codFunc": "3",
-      "codUni": "3"
-    },
-    {
-      "id": 5,
-      "nome": "Fernanda Miriam",
-      "userName": "fernanda",
-      "password": "123",
-      "tipo": "usu",
-      "codFunc": "3",
-      "codUni": "4"
+      "codUni": "0",
+      "id": 1
     }
   ],
   "produtosAll": [
